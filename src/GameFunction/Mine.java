@@ -15,7 +15,7 @@ public class Mine extends Square {
     {
         return super.isMine();
     }
-
+/*
     protected boolean isFlag()
     {
         return super.isFlag();
@@ -46,4 +46,5 @@ public class Mine extends Square {
     protected void getLocation() {//show mine location
         super.getLocation();
     }
+    */
 }
